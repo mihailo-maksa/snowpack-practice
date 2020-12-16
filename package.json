@@ -1,0 +1,19 @@
+{
+  "name": "snowpack_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "Mihailo Maksa",
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^2.18.4"
+  },
+  "dependencies": {
+    "change-case": "^4.1.2"
+  }
+}
